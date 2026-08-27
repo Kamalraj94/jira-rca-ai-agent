@@ -1,0 +1,15 @@
+JIRA_BASE_URL=<your_url> ##https://domain.atlassian.net
+JIRA_EMAIL=<your_email>
+JIRA_API_TOKEN=<your_api_token>
+JIRA_RCA_FIELD=<rca_custom_field>
+JIRA_TIMEOUT_SECONDS=30
+
+LLM_API_URL=<your_llm_endpoint>
+LLM_API_TOKEN=replace-with-real-token
+LLM_AUTH_HEADER=Authorization
+LLM_AUTH_PREFIX=Bearer
+LLM_MODEL=
+LLM_TIMEOUT_SECONDS=60
+LLM_VERIFY_SSL=true
+APP_LOG_LEVEL=INFO
+MOCK_LLM_MODE=true
